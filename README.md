@@ -8,7 +8,7 @@ Realizado extração de dados do site da Agência Nacional de Aviação Civil (A
 
 ## Visualização
 
-Foi realizando um mapa interativo do tráfego aéreo brasileiro no ano de 2019 utilizando o software Tableau.
+Foi realizado um mapa interativo do tráfego aéreo brasileiro no ano de 2019 utilizando o software Tableau.
 
 [Clique aqui para acessar o mapa interativo.](https://public.tableau.com/profile/matheus8405#!/vizhome/flights_brazil_2019/Planilha1)
 
