@@ -13,3 +13,12 @@ Foi realizado um mapa interativo do tráfego aéreo brasileiro no ano de 2019 ut
 [Clique aqui para acessar o mapa interativo.](https://public.tableau.com/profile/matheus8405#!/vizhome/flights_brazil_2019/Planilha1)
 
 ![mapa](mapa_tableau.jpg)
+
+## Bibliotecas utilizadas
+- Requests
+- BeautifulSoup
+- Matplotlib
+- Seaborn
+- Pandas
+- Datetime
+- NumPy
